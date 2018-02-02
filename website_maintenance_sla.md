@@ -16,7 +16,7 @@ This Website Maintenance Service Level Agreement (SLA) is an agreement between [
 
 ## Specification of services
 The following services are within the scope of the service summary.
-1. Tasks related to the updating of WordPress core and add-on Plugins to ensure theme and custom files developed by the service provider are functioning normally within initial development scope. Code updates and changes necessary to fix or maintain theme and custom files can take several business days, or even weeks depending on the changes included in the WordPress and/or Plugin updates.
+1. Tasks related to the updating of Software to ensure theme and custom files developed by the service provider are functioning normally within initial development scope. Code updates and changes necessary to fix or maintain theme and custom files can take several business days, or even weeks depending on the changes included in the Software updates.
 2. Content update tasks not to exceed allotted monthly hours, per agreed upon maintenance contract.
 3. All tasks shall be completed on a weekly cycle, typically by 5pm every Tuesday.
 4. If there is more than one task in the queue, tasks shall be completed in the order received based on request/approval date. Prior to beginning each task, the prior task shall be completed. Multiple tasks shall not be worked on or "in progress" simultaneously unless agreed upon by both client and service provider at time of task submission.
@@ -37,8 +37,7 @@ Examples of task requests considered *"within scope"*:
 - Image optimization
 - Solve alignment issues
 - Tweak CSS/fonts
-- Update a plugin
-- Update WordPress core
+- Update Software
 
 Examples of task requests that are *"outside of scope"*:
 - Add custom functionality to a plugin
